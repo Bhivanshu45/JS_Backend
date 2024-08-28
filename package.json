@@ -1,0 +1,19 @@
+{
+  "name": "backend_basic",
+  "version": "1.0.0",
+  "description": "An app to know backend deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "bhivanshu lawaniya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
